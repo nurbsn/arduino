@@ -1,0 +1,12 @@
+{
+  "name": "",
+  "keywords": "modbus slave",
+  "description": "ModBusSlave + support to handle RS-485 driver output.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devlware/ModBusSlave.git"
+  },
+  "version": "1.0",
+  "frameworks": "arduino",
+  "platforms": "*"
+}
